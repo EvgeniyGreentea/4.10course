@@ -3,7 +3,7 @@
         width: 90%;
     }
     h1{
-        margin-top: 29vh; ;
+        padding-top: 29vh; ;
     }
     .header__email{
         display: none;
@@ -113,7 +113,7 @@
 }
 @media screen and (max-width: 796px){
     h1{
-        margin-top: 28vh;
+        padding-top: 28vh;
     }
     h2{
         margin-top: 60px;
