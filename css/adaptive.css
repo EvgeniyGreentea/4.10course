@@ -109,6 +109,23 @@
     }
 }
 @media screen and (max-width: 796px){
+    h2{
+        margin-top: 60px;
+        margin-bottom: 12px;
+    }
+    h3{
+        margin-top: 25px;
+        margin-bottom: 5px;
+    }
+    .about_me__conect h3{
+        margin-bottom: 10px;
+    }
+    .skils{
+        margin-top: 70px;
+    }
+    .about_me__sect-left{
+        margin-bottom: 30px;
+    }
     .about_me__item{
         width: 100%;
         margin-right: 0;
