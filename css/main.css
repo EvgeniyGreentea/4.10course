@@ -104,7 +104,7 @@ h1{
     text-align: center;
     padding-top: 35vh;
     color: #ffffff;
-    font-family: Natasha;
+    font-family: "Natasha";
     font-size: 39px;
     font-weight: 400;
     line-height: 55px;
@@ -124,7 +124,7 @@ h1 span{
 }
 h2{
     color: #22241b;
-    font-family: Natasha;
+    font-family: "Natasha";
     font-size: 37px;
     font-weight: 400;
     line-height: 55px;
